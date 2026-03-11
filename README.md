@@ -2,8 +2,8 @@
     <title>MUASIR ELEKTRIK</title>
     <body>
         <h1>En muasir ELEKTRIK</h1>
-        <h2>D Ş</h2>
-        <h3>+994503888666</h3>
+        <h2>XXX</h2>
+        <h3>+994XXXXXXXXX</h3>
     </body>
     <table  border="5">
     <tr>
